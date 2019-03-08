@@ -40,9 +40,9 @@ $searchBtn5.addEventListener("click", shape);
 
 
 
-// Assigning variable to the dataset.
+// Assigning variable to the data.
 
-var filter = dataSet;
+var filter = data;
 
 
 
